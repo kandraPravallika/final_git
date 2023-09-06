@@ -4,3 +4,4 @@ second line
 third line
 =======
 >>>>>>> parent of 3f38672 (Update first.txt)
+fifth line
