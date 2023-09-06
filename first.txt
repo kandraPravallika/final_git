@@ -1,6 +1,9 @@
 first file
 second line
 third line
+<<<<<<< HEAD
 fifth line
 sixrth line
 seventh line
+=======
+>>>>>>> parent of ab520ea (fourth)
